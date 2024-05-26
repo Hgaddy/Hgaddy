@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hgaddy
 - 👀 I’m interested in developing my computer science skills and knowledge.
-- 🌱 I’m currently learning computer science... duh
+- 🌱 I’m currently learning computer science and game development.
 - 📫 How to reach me: holdengaddy@gmail.com
 
 <!---
